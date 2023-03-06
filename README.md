@@ -1,2 +1,2 @@
-# validadorCPF.github.io
+# Validador-CPF
 Esse validador de CPF foi realizado com HTML
